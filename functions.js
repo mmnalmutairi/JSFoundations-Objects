@@ -73,7 +73,7 @@ function getChannelByVideoTitle(videoTitle, channels) {
 }
 // console.log(getChannelByVideoTitle("The Universal S", channels));
 
-/**************************************************************
+/************************************************************** 
  * searchChannels(query, channels):
  * - receives a query (string)
  * - recieves an array of channel objects
